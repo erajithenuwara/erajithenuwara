@@ -21,4 +21,4 @@
 
 ---
 
-Thanks for visiting! Feel free to check out my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/) or [Twitter](https://twitter.com/your-profile).
+Thanks for visiting!.
